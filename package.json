@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/d3": "^7.4.0",
+    "commonjs": "^0.0.1",
+    "d3": "^7.8.2",
+    "esbuild": "0.17.12",
+    "typescript": "^5.0.2"
+  }
+}
