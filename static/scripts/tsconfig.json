@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "preserveConstEnums": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["static/scripts/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+}
