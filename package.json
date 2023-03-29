@@ -1,9 +1,18 @@
 {
   "dependencies": {
     "@types/d3": "^7.4.0",
+    "@types/topojson": "^3.2.3",
+    "@types/topojson-client": "^3.1.1",
+    "@unovis/ts": "^1.0.3",
     "commonjs": "^0.0.1",
     "d3": "^7.8.2",
     "esbuild": "0.17.12",
+    "fs": "^0.0.1-security",
+    "topojson": "^3.0.2",
+    "topojson-client": "^3.1.0",
     "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.10"
   }
 }

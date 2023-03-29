@@ -353,3 +353,13 @@ button {
   text-decoration: none;
 }
 
+.country-border {
+  fill: none;
+  stroke: grey;
+  stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
+
+.country {
+  fill: #ccc;
+}
